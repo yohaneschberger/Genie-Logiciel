@@ -1,0 +1,405 @@
+# French translations for I package.
+# Copyright (C) 2024 THE I'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the I package.
+#  <yohan.eschberger83300@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: I 62\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-05 17:00+0200\n"
+"PO-Revision-Date: 2024-05-17 22:30+0200\n"
+"Last-Translator:  <yohan.eschberger83300@gmail.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Classes/CButtonsClients.py:23 Classes/CButtonsWel.py:53
+msgid "Create Client"
+msgstr "Créer un Client"
+
+#: Classes/CButtonsClients.py:25
+msgid "Search Client"
+msgstr "Rechercher un Client"
+
+#: Classes/CButtonsClients.py:27
+msgid "Delete Client"
+msgstr "Supprimer un Client"
+
+#: Classes/CButtonsClients.py:29 Classes/CButtonsCreateFacture.py:21
+#: Classes/CButtonsDevis.py:26 Classes/CButtonsEmployes.py:29
+#: Classes/CButtonsFacture.py:26 Classes/CButtonsSearchClients.py:27
+#: Classes/CButtonsSearchEmployes.py:23
+msgid "Back"
+msgstr "Retour"
+
+#: Classes/CButtonsCreateClients.py:24
+msgid "Create"
+msgstr "Créer"
+
+#: Classes/CButtonsCreateClients.py:26
+msgid "Import Client"
+msgstr "Importer un Client"
+
+#: Classes/CButtonsCreateClients.py:28 Classes/CButtonsLogo.py:26
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Classes/CButtonsCreateClients.py:45 Classes/CButtonsCreateClients.py:53
+#: Classes/CButtonsCreateClients.py:62 Classes/CButtonsCreateEmployes.py:39
+#: Classes/CButtonsCreateEmployes.py:47 Classes/CButtonsCreateEmployes.py:56
+#: Classes/CButtonsDeleteClients.py:51 Classes/CButtonsDeleteEmployes.py:53
+#: Classes/CButtonsLog.py:74
+msgid "Error"
+msgstr "Erreur"
+
+#: Classes/CButtonsCreateClients.py:45 Classes/CButtonsCreateEmployes.py:39
+msgid "Please fill all fields"
+msgstr "Veuillez remplir tous les champs"
+
+#: Classes/CButtonsCreateClients.py:53 Classes/CButtonsCreateClients.py:62
+msgid "Client already exists"
+msgstr "Client déjà existant"
+
+#: Classes/CButtonsCreateClients.py:56 Classes/CButtonsCreateEmployes.py:50
+msgid "Information"
+msgstr "Information"
+
+#: Classes/CButtonsCreateClients.py:56
+msgid "Client created"
+msgstr "Client créé"
+
+#: Classes/CButtonsCreateEmployes.py:47 Classes/CButtonsCreateEmployes.py:56
+msgid "Employe already exists"
+msgstr "Employé déjà existant"
+
+#: Classes/CButtonsCreateEmployes.py:50
+msgid "Employe created"
+msgstr "Employé créé"
+
+#: Classes/CButtonsCreateFacture.py:19 Classes/CButtonsFacture.py:24
+msgid "Create Invoice"
+msgstr "Créer une Facture"
+
+#: Classes/CButtonsDeleteClients.py:21 Classes/CButtonsDeleteEmployes.py:21
+#: Classes/CButtonsSearchClients.py:21 Classes/CButtonsSearchEmployes.py:19
+msgid "Search"
+msgstr "Recherche"
+
+#: Classes/CButtonsDeleteClients.py:23 Classes/CButtonsDeleteEmployes.py:23
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Classes/CButtonsDeleteClients.py:25 Classes/CButtonsDeleteEmployes.py:25
+#: Classes/CButtonsLog.py:44
+msgid "Quit"
+msgstr "Quitter"
+
+#: Classes/CButtonsDeleteClients.py:40 Classes/CButtonsDeleteClients.py:51
+#: Classes/CButtonsDeleteEmployes.py:42 Classes/CButtonsDeleteEmployes.py:53
+#: Classes/CButtonsSearchClients.py:46
+msgid "Client not found"
+msgstr "Client non trouvé"
+
+#: Classes/CButtonsDeleteClients.py:43 Classes/CButtonsDeleteEmployes.py:45
+msgid "Client found and ready to be deleted"
+msgstr "Client trouvé et prêt à être supprimé"
+
+#: Classes/CButtonsDeleteClients.py:59 Classes/CButtonsDeleteEmployes.py:61
+msgid "Client deleted"
+msgstr "Client supprimé"
+
+#: Classes/CButtonsDevis.py:20
+msgid "Search Quotation"
+msgstr "Rechercher un Devis"
+
+#: Classes/CButtonsDevis.py:22
+msgid "Quotation History"
+msgstr "Historique Devis"
+
+#: Classes/CButtonsDevis.py:24
+msgid "Create Quotation"
+msgstr "Créer un Devis"
+
+#: Classes/CButtonsEmployes.py:23 Classes/CButtonsWel.py:48
+msgid "Create Employee"
+msgstr "Créer un Employé"
+
+#: Classes/CButtonsEmployes.py:25
+msgid "Search Employee"
+msgstr "Rechercher un Employé"
+
+#: Classes/CButtonsEmployes.py:27
+msgid "Delete Employee"
+msgstr "Supprimer un Employé"
+
+#: Classes/CButtonsFacture.py:20
+msgid "Search Invoice"
+msgstr "Rechercher une Facture"
+
+#: Classes/CButtonsFacture.py:22
+msgid "Invoice History"
+msgstr "Historique Facture"
+
+#: Classes/CButtonsLog.py:24
+msgid "French"
+msgstr "Français"
+
+#: Classes/CButtonsLog.py:26
+msgid "English"
+msgstr "Anglais"
+
+#: Classes/CButtonsLog.py:43 Classes/CDashBoardLog.py:20
+msgid "Login"
+msgstr "Connexion"
+
+#: Classes/CButtonsLog.py:61
+msgid "Login successful"
+msgstr "Connexion réussie"
+
+#: Classes/CButtonsLog.py:63
+msgid "Admin account"
+msgstr "Compte Administrateur"
+
+#: Classes/CButtonsLog.py:68
+msgid "User account"
+msgstr "Compte Utilisateur"
+
+#: Classes/CButtonsLog.py:73 Classes/CButtonsLog.py:74
+msgid "Login failed"
+msgstr "Connexion échouée"
+
+#: Classes/CButtonsLogo.py:22
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: Classes/CButtonsLogo.py:24
+msgid "Import"
+msgstr "Importer"
+
+#: Classes/CButtonsSearchClients.py:23 Classes/CButtonsSearchEmployes.py:21
+msgid "Invoice/Quotation"
+msgstr "Facture/Devis"
+
+#: Classes/CButtonsSearchClients.py:25
+msgid "Export"
+msgstr "Exporter"
+
+#: Classes/CButtonsSearchClients.py:49
+msgid "Client found"
+msgstr "Client trouvé"
+
+#: Classes/CButtonsSearchClients.py:90
+msgid "Client exported"
+msgstr "Client exporté"
+
+#: Classes/CButtonsSearchEmployes.py:42
+msgid "Employé not found"
+msgstr "Employé non trouvé"
+
+#: Classes/CButtonsSearchEmployes.py:45
+msgid "Employé found"
+msgstr "Employé trouvé"
+
+#: Classes/CButtonsWel.py:31 Classes/CButtonsWel.py:39
+msgid "Invoices"
+msgstr "Factures"
+
+#: Classes/CButtonsWel.py:32 Classes/CButtonsWel.py:41
+msgid "Quotation"
+msgstr "Devis"
+
+#: Classes/CButtonsWel.py:33 Classes/CButtonsWel.py:43
+#: Classes/CDashBoardClients.py:16
+msgid "Clients"
+msgstr "Clients"
+
+#: Classes/CButtonsWel.py:35 Classes/CButtonsWel.py:46
+msgid "Employes"
+msgstr "Employés"
+
+#: Classes/CButtonsWel.py:51
+msgid "Manage Company"
+msgstr "Gérer l'Entreprise"
+
+#: Classes/CButtonsWel.py:55
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: Classes/CDashBoardCreateClients.py:16
+msgid "Client Creation"
+msgstr "Création de Client"
+
+#: Classes/CDashBoardCreateClients.py:18 Classes/CDashBoardCreateEmployes.py:18
+msgid "Name"
+msgstr "Nom"
+
+#: Classes/CDashBoardCreateClients.py:22 Classes/CDashBoardCreateEmployes.py:22
+#: Classes/CDashBoardDeleteClients.py:23 Classes/CDashBoardDeleteEmployes.py:23
+#: Classes/CDashBoardSearchClients.py:23 Classes/CDashBoardSearchEmployes.py:23
+msgid "First Name"
+msgstr "Prénom"
+
+#: Classes/CDashBoardCreateClients.py:26 Classes/CDashBoardCreateEmployes.py:26
+msgid "Phone"
+msgstr "Téléphone"
+
+#: Classes/CDashBoardCreateClients.py:34
+msgid "Address"
+msgstr "Adresse"
+
+#: Classes/CDashBoardCreateClients.py:38
+msgid "Comment (optional)"
+msgstr "Commentaire (facultatif)"
+
+#: Classes/CDashBoardCreateEmployes.py:16
+msgid "Create Employees"
+msgstr "Créer un Employé"
+
+#: Classes/CDashBoardDeleteClients.py:16
+msgid "Delete Clients"
+msgstr "Supprimer un Client"
+
+#: Classes/CDashBoardDeleteClients.py:19 Classes/CDashBoardDeleteEmployes.py:19
+#: Classes/CDashBoardSearchClients.py:19 Classes/CDashBoardSearchEmployes.py:19
+msgid "Last Name"
+msgstr "Nom"
+
+#: Classes/CDashBoardDeleteEmployes.py:16
+msgid "Delete Employees"
+msgstr "Supprimer un Employé"
+
+#: Classes/CDashBoardEmployes.py:16
+msgid "Employees"
+msgstr "Employés"
+
+#: Classes/CDashBoardFacture.py:16
+msgid "Invoice"
+msgstr "Facture"
+
+#: Classes/CDashBoardLog.py:16
+msgid "Welcome to the billing management application"
+msgstr "Bienvenue dans l'application de gestion des factures"
+
+#: Classes/CDashBoardLog.py:18
+msgid "Please identify yourself"
+msgstr "Veuillez vous identifier"
+
+#: Classes/CDashBoardLog.py:24
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Classes/CDashBoardLogo.py:31
+msgid "Logo visualization"
+msgstr "Visualisation du Logo"
+
+#: Classes/CDashBoardSearchClients.py:16
+msgid "Search clients"
+msgstr "Recherche Clients"
+
+#: Classes/CDashBoardSearchEmployes.py:16
+msgid "Search employees"
+msgstr "Recherche Employés"
+
+#: Classes/CDashBoardWel.py:16
+msgid "Successful connection"
+msgstr "Connexion réussie"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Search Invoices"
+msgstr "Recherche de Factures"
+
+msgid "Invoice Number"
+msgstr "Numéro Facture"
+
+msgid "Company name"
+msgstr "Nom de l'Entreprise"
+
+msgid "Company email"
+msgstr "Email de l'Entreprise"
+
+msgid "Company address"
+msgstr "Adresse de l'Entreprise"
+
+msgid "Company phone"
+msgstr "Téléphone de l'Entreprise"
+
+msgid "Billing Address"
+msgstr "Adresse de Facturation"
+
+msgid "Client name"
+msgstr "Nom du Client"
+
+msgid "Client email"
+msgstr "Email du Client"
+
+msgid "Client address"
+msgstr "Adresse du Client"
+
+msgid "Client phone"
+msgstr "Téléphone du Client"
+
+msgid "Invoice number"
+msgstr "Numéro Facture"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Payment Terms"
+msgstr "Conditions de Paiement"
+
+msgid "Subtotal"
+msgstr "Sous-total"
+
+msgid "TVA"
+msgstr "VAT"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Amount due"
+msgstr "Solde dû"
+
+msgid "Quotation number"
+msgstr "Numéro Devis"
+
+msgid "Edit Company"
+msgstr "Editer Entreprise"
+
+msgid "Company information"
+msgstr "Information de l'Entreprise"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
